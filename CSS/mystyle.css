@@ -1,0 +1,29 @@
+body {
+  background-color: #04003B;
+    color: white;
+}
+
+#title {
+    text-align: center;
+    color: white;
+	padding: 20px;
+	/*background-color:white;*/
+	font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: red;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+
+.intro{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tableau{
+    margin-top: 50px;
+    text-align: center;
+}
+
